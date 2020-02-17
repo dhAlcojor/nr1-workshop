@@ -8,11 +8,11 @@ Ver la documentación sobre el [Setup](SETUP.md).
 
 # Agenda
 
-| Subject | Material |
+| Tema | Material |
 |---|---|
-| Environment Setup Confirmation | [Setup](https://github.com/newrelic/nr1-workshop/blob/master/SETUP.md) |
-| Workshop Overview and Programmability Concepts | [Slides](https://docs.google.com/presentation/d/1YEgRNxHGGDO0Z8wN0DxcXUt-DtBXwjf0fMTNXCf6ziw/edit) |
-| Introduction to the NR1 SDK | [Slides](https://docs.google.com/presentation/d/1tTQv4tkwWskCRXVwwOfJhr-K8dMHCDCRoFH97c3n5vU/edit) |
+| Configuración del entorno | [Setup](https://github.com/dhAlcojor/nr1-workshop/blob/master/SETUP.md) |
+| Workshop Overview and Programmability Concepts | [Diapositivas](https://docs.google.com/presentation/d/1YEgRNxHGGDO0Z8wN0DxcXUt-DtBXwjf0fMTNXCf6ziw/edit) |
+| Introducción al SDK de NR1 | [Diapositivas](https://docs.google.com/presentation/d/1tTQv4tkwWskCRXVwwOfJhr-K8dMHCDCRoFH97c3n5vU/edit) |
 | **Getting Started** | |
 | Lab 0: Creating your first package, launcher, and nerdlet with the NR1 CLI | [Lab Instructions](https://github.com/newrelic/nr1-workshop/blob/master/lab0/INSTRUCTIONS.md) |
 | Lab 1: Working with Chart components | [Lab Instructions](https://github.com/newrelic/nr1-workshop/blob/master/lab1/INSTRUCTIONS.md) |
