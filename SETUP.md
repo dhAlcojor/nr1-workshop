@@ -6,7 +6,7 @@ Con esta guía aprenderemos a crear [aplicaciones New Relic One](https://docs.ne
 
 1. Abre [one.newrelic.com](https://one.newrelic.com/) en un navegador y selecciona [**build your own application**](https://one.newrelic.com/launcher/developer-center.launcher#pane=eyJuZXJkbGV0SWQiOiJkZXZlbG9wZXItY2VudGVyLmRldmVsb3Blci1jZW50ZXIifQ==). Sigue las instrucciones.
 
-2. A continuación, clónate el repositorio:
+2. A continuación, clónate este repositorio:
 
     ```bash
     git clone https://github.com/dhAlcojor/nr1-workshop.git
@@ -28,4 +28,4 @@ Con esta guía aprenderemos a crear [aplicaciones New Relic One](https://docs.ne
 4. Abre [one.newrelic.com?nerdpacks=local](https://one.newrelic.com?nerdpacks=local) en un navegador. Deberías ver lo siguiente:
 ![Congratulations](screenshots/setup_screen05.png)
 
-Bien. [Empecemos.](https://github.com/dhAlcojor/nr1-workshop)
+¿Bien?. [Empecemos.](https://github.com/dhAlcojor/nr1-workshop)
